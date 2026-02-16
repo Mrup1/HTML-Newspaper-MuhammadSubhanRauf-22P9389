@@ -3,7 +3,7 @@
 ## Student Information
 - **Name:** Muhammad Subhan Rauf
 - **Roll Number:** 22P9389
-- **Section:** CS-4070 (8th Semester)
+- **Section:** CS (8th Semester)
 
 ## Original Newspaper
 - **Name:** روزنامہ جنگ (Daily Jang)
@@ -30,3 +30,4 @@ All headlines and articles were translated into English and rephrased in origina
 One of the main challenges was recreating a newspaper-style column layout without using CSS files. 
 This was solved by carefully structuring tables and adjusting column widths. 
 Maintaining visual similarity while keeping semantic HTML structure was also carefully balanced.
+
